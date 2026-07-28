@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/futurelab-logo.png" alt="Futurelab Studios" width="300" />
+  <img src="./assets/fls-whitebg.png" alt="Futurelab Studios" width="300" />
 
   <h1>Mukhesh Vadlamudi</h1>
   <p><strong>AI Product Engineering · Futurelab Studios</strong></p>
