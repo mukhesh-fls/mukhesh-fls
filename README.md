@@ -1,77 +1,77 @@
 <div align="center">
-  <img src="./assets/fls-whitebg.png" alt="Futurelab Studios" width="300" />
+  <img src="./assets/fls-whitebg.png" alt="Futurelab Studios" width="360" />
 
   <h1>Mukhesh Vadlamudi</h1>
-  <p><strong>AI Product Engineering · Futurelab Studios</strong></p>
-  <p><em>Building the intelligent layer between business intent and dependable software.</em></p>
+  <p><strong>Forward Deployed Engineer &middot; Applied AI &amp; Product Systems &middot; Futurelab Studios</strong></p>
+  <p><em>Close to the problem. Hands-on with the system. Accountable for the outcome.</em></p>
 </div>
 
 <br />
 
-I work at the intersection of **artificial intelligence, product, and engineering** at **Futurelab Studios**—shaping complex business needs into secure, practical, and human-centered systems.
+I am a **Forward Deployed Engineer at Futurelab Studios**, working close to stakeholders and operational reality to turn ambiguous, high-impact problems into dependable AI products.
 
-My work spans the complete product journey: understanding the problem, defining the experience, designing the architecture, building the system, and validating that it performs reliably in the real world.
+I bridge discovery and delivery: understanding workflows, shaping product direction, designing solution architecture, building across AI and the full stack, and improving systems through real-world feedback.
 
-> **North star —** move beyond impressive demos and build intelligent systems people can trust.
+> **North star &mdash;** own the distance between a promising idea and a system that works in context.
 
 <br />
 
-## Operating range
+## Forward deployed practice
 
-<table>
+<table width="100%">
   <tr>
     <td width="44" align="center">
-      <img src="https://api.iconify.design/ph/compass-duotone.svg?color=%237C8594" width="26" alt="" />
+      <img src="https://api.iconify.design/ph/binoculars-duotone.svg?color=%237C8594" width="26" alt="" />
     </td>
-    <td>
-      <strong>Product direction</strong><br />
-      <sub>Translate business goals into focused AI use cases and intuitive product experiences.</sub>
+    <td width="46%">
+      <strong>Discovery in context</strong><br />
+      <sub>Work close to stakeholders, workflows, and constraints to identify the problem worth solving.</sub>
     </td>
     <td width="44" align="center">
-      <img src="https://api.iconify.design/ph/brain-duotone.svg?color=%237C8594" width="26" alt="" />
+      <img src="https://api.iconify.design/ph/lightning-duotone.svg?color=%237C8594" width="26" alt="" />
     </td>
-    <td>
-      <strong>Applied intelligence</strong><br />
-      <sub>Build grounded assistants, retrieval systems, and intelligent workflows.</sub>
+    <td width="46%">
+      <strong>Rapid solution design</strong><br />
+      <sub>Turn ambiguity into focused use cases, clear product decisions, and testable working systems.</sub>
     </td>
   </tr>
   <tr>
     <td width="44" align="center">
-      <img src="https://api.iconify.design/ph/circles-three-plus-duotone.svg?color=%237C8594" width="26" alt="" />
+      <img src="https://api.iconify.design/ph/brain-duotone.svg?color=%237C8594" width="26" alt="" />
     </td>
-    <td>
-      <strong>Solution architecture</strong><br />
-      <sub>Connect interfaces, services, data, models, and cloud infrastructure.</sub>
+    <td width="46%">
+      <strong>Applied AI engineering</strong><br />
+      <sub>Build grounded assistants, retrieval systems, intelligent workflows, and evaluation loops.</sub>
     </td>
     <td width="44" align="center">
       <img src="https://api.iconify.design/ph/code-duotone.svg?color=%237C8594" width="26" alt="" />
     </td>
-    <td>
-      <strong>Full-stack engineering</strong><br />
-      <sub>Turn product thinking into usable, maintainable software across the stack.</sub>
+    <td width="46%">
+      <strong>Full-stack execution</strong><br />
+      <sub>Connect interfaces, services, data, models, and cloud infrastructure into usable products.</sub>
     </td>
   </tr>
   <tr>
     <td width="44" align="center">
-      <img src="https://api.iconify.design/ph/shield-check-duotone.svg?color=%237C8594" width="26" alt="" />
+      <img src="https://api.iconify.design/ph/arrows-clockwise-duotone.svg?color=%237C8594" width="26" alt="" />
     </td>
-    <td>
-      <strong>AI assurance</strong><br />
-      <sub>Design for grounding, evaluation, security, traceability, and human oversight.</sub>
+    <td width="46%">
+      <strong>Deployment &amp; iteration</strong><br />
+      <sub>Validate in the real workflow, learn from usage, and improve what matters after release.</sub>
     </td>
     <td width="44" align="center">
-      <img src="https://api.iconify.design/ph/users-three-duotone.svg?color=%237C8594" width="26" alt="" />
+      <img src="https://api.iconify.design/ph/handshake-duotone.svg?color=%237C8594" width="26" alt="" />
     </td>
-    <td>
-      <strong>Technical collaboration</strong><br />
-      <sub>Make complex systems understandable across engineering and business teams.</sub>
+    <td width="46%">
+      <strong>Trust &amp; adoption</strong><br />
+      <sub>Make systems secure, explainable, maintainable, and understandable to the people using them.</sub>
     </td>
   </tr>
 </table>
 
 <br />
 
-## Systems & tools
+## Systems &amp; tools
 
 <div align="center">
   <img
@@ -84,19 +84,43 @@ My work spans the complete product journey: understanding the problem, defining 
 
 ## Principles
 
-<table>
+<table width="100%">
   <tr>
-    <td><strong>Evidence over assumption</strong><br /><sub>Outputs should be grounded and traceable.</sub></td>
-    <td><strong>People before novelty</strong><br /><sub>Technology should make real work clearer.</sub></td>
+    <td width="50%" align="center">
+      <br />
+      <img src="https://api.iconify.design/ph/crosshair-duotone.svg?color=%237C8594" width="27" alt="" /><br /><br />
+      <strong>Evidence over assumption</strong><br />
+      <sub>Outputs should be grounded and traceable.</sub>
+      <br /><br />
+    </td>
+    <td width="50%" align="center">
+      <br />
+      <img src="https://api.iconify.design/ph/user-focus-duotone.svg?color=%237C8594" width="27" alt="" /><br /><br />
+      <strong>People before novelty</strong><br />
+      <sub>Technology should make real work clearer.</sub>
+      <br /><br />
+    </td>
   </tr>
   <tr>
-    <td><strong>Security from the start</strong><br /><sub>Privacy and control belong in the design.</sub></td>
-    <td><strong>Simplicity that scales</strong><br /><sub>Clear systems outlast unnecessary complexity.</sub></td>
+    <td width="50%" align="center">
+      <br />
+      <img src="https://api.iconify.design/ph/lock-key-duotone.svg?color=%237C8594" width="27" alt="" /><br /><br />
+      <strong>Security from the start</strong><br />
+      <sub>Privacy and control belong in the design.</sub>
+      <br /><br />
+    </td>
+    <td width="50%" align="center">
+      <br />
+      <img src="https://api.iconify.design/ph/diamond-duotone.svg?color=%237C8594" width="27" alt="" /><br /><br />
+      <strong>Simplicity that scales</strong><br />
+      <sub>Clear systems outlast unnecessary complexity.</sub>
+      <br /><br />
+    </td>
   </tr>
 </table>
 
 <br />
 
 <div align="center">
-  <sub>Building dependable AI systems with the team at <strong>Futurelab Studios</strong>.</sub>
+  <sub>Embedded in the problem. Engineering toward the outcome.</sub>
 </div>
