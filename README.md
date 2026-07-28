@@ -84,40 +84,50 @@ I bridge discovery and delivery: understanding workflows, shaping product direct
 
 ## Principles
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <br />
-      <img src="https://api.iconify.design/ph/crosshair-duotone.svg?color=%237C8594" width="27" alt="" /><br /><br />
-      <strong>Evidence over assumption</strong><br />
-      <sub>Outputs should be grounded and traceable.</sub>
-      <br /><br />
-    </td>
-    <td width="50%" align="center">
-      <br />
-      <img src="https://api.iconify.design/ph/user-focus-duotone.svg?color=%237C8594" width="27" alt="" /><br /><br />
-      <strong>People before novelty</strong><br />
-      <sub>Technology should make real work clearer.</sub>
-      <br /><br />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <br />
-      <img src="https://api.iconify.design/ph/lock-key-duotone.svg?color=%237C8594" width="27" alt="" /><br /><br />
-      <strong>Security from the start</strong><br />
-      <sub>Privacy and control belong in the design.</sub>
-      <br /><br />
-    </td>
-    <td width="50%" align="center">
-      <br />
-      <img src="https://api.iconify.design/ph/diamond-duotone.svg?color=%237C8594" width="27" alt="" /><br /><br />
-      <strong>Simplicity that scales</strong><br />
-      <sub>Clear systems outlast unnecessary complexity.</sub>
-      <br /><br />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td width="300" align="center">
+        <br />
+        <img src="https://api.iconify.design/ph/crosshair-duotone.svg?color=%237C8594" width="27" alt="" />
+        <br /><br />
+        <strong>Evidence over assumption</strong>
+        <br />
+        <sub>Outputs should be grounded and traceable.</sub>
+        <br /><br />
+      </td>
+      <td width="300" align="center">
+        <br />
+        <img src="https://api.iconify.design/ph/user-focus-duotone.svg?color=%237C8594" width="27" alt="" />
+        <br /><br />
+        <strong>People before novelty</strong>
+        <br />
+        <sub>Technology should make real work clearer.</sub>
+        <br /><br />
+      </td>
+    </tr>
+    <tr>
+      <td width="300" align="center">
+        <br />
+        <img src="https://api.iconify.design/ph/lock-key-duotone.svg?color=%237C8594" width="27" alt="" />
+        <br /><br />
+        <strong>Security from the start</strong>
+        <br />
+        <sub>Privacy and control belong in the design.</sub>
+        <br /><br />
+      </td>
+      <td width="300" align="center">
+        <br />
+        <img src="https://api.iconify.design/ph/diamond-duotone.svg?color=%237C8594" width="27" alt="" />
+        <br /><br />
+        <strong>Simplicity that scales</strong>
+        <br />
+        <sub>Clear systems outlast unnecessary complexity.</sub>
+        <br /><br />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
